@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/healthsync-ai-107640-4d32b7fd/healthsync_ai"
+}
